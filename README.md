@@ -10,11 +10,8 @@
     - Sales Overview
 ```
 
-![Sales Overview](https://user-images.githubusercontent.com/123111536/213874077-9efac2f1-437d-4d3f-b21e-541371aac9ff.jpg)  
+![DASHBOARD CREATED FOR ADVENTURE WORKS](https://user-images.githubusercontent.com/92978413/217363301-a33f6356-abde-4b2f-b193-9aaf50a0f1bb.jpg) 
 
 
 ```    
-- Customer KPI Dashboard
-```
 
-![Customer KPI Dashboard](https://user-images.githubusercontent.com/123111536/213874167-d21ae989-19b4-40f1-bbba-145f8170fcfa.jpg) 
