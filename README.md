@@ -12,4 +12,9 @@
 
 
 ```    
+    - Weather Forecast Analysis Dashboard
+ ```
+ 
+ ![Salary KPI](https://user-images.githubusercontent.com/123111536/217763751-56ecc8f8-c830-4305-8268-fd9fef07fb4f.jpg)
 
+https://app.powerbi.com/groups/me/reports/43f608bc-1113-4f8e-ac19-b7869e33e2cf?redirectedFromSignup=1
