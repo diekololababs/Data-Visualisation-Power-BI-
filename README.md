@@ -12,9 +12,17 @@
 
 
 ```    
-    - Weather Forecast Analysis Dashboard
+    - Weather Forecast Analysis Dashboard (Overview)
  ```
- 
- ![Salary KPI](https://user-images.githubusercontent.com/123111536/217763751-56ecc8f8-c830-4305-8268-fd9fef07fb4f.jpg)
+ ![Weather Analysis report Overview ](https://user-images.githubusercontent.com/92978413/223085218-e74c16e6-6626-46a4-b6aa-3f138ad18381.PNG)
 
-https://app.powerbi.com/groups/me/reports/43f608bc-1113-4f8e-ac19-b7869e33e2cf?redirectedFromSignup=1
+```    
+    - Temperature Overview
+```
+![Temperature Page](https://user-images.githubusercontent.com/92978413/223086099-8f15145e-7e1c-4fcc-9b99-728ac3ddde6f.PNG)
+
+
+```    
+    - Pressure Overview
+```
+![Pressure Page](https://user-images.githubusercontent.com/92978413/223086280-15fb880a-8073-406d-8c76-4d583ec10995.PNG)
